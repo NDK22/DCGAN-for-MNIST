@@ -1,8 +1,3 @@
-# Karavatt, Nikhil Das
-# 1002_085_391
-# 2023_04_30
-# Assignment_05_01
-
 import os
 import tensorflow as tf
 from keras import models,layers
